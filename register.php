@@ -7,6 +7,7 @@
 //Si aucune donnée n'est envoyée, on renvoit un message d'erreur et on arrête.
 if(!$_POST) {
 	echo json_encode(array("message" => "No POST"));
+	die();
 }
 
 //S'il manque des paramètres, on envoit un message d'erreur et on s'arrête
