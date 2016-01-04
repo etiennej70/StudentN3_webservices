@@ -1,4 +1,4 @@
-# StudentN3_webservices
+# Student'N 3 - Webservices
 
 Webservices tournant sur serveur permettant de stocker les infos et de gérer l'authentification des utilisateurs sur l'application StudentN3.
 
